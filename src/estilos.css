@@ -1,0 +1,29 @@
+body{   
+ 
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ color: black;
+ margin: 0 auto;
+ padding: 5rem;
+ /*background-image: url('./imagenes/fondo.png.jpg');*/
+}
+
+p{
+    font-size: 1.6rem;
+    
+}
+p:hover{
+    color: rgb(179, 4, 4);
+    
+}
+h1{
+    font-size: 3rem;
+    
+}
+
+.contenedor{
+    text-align: center;
+    
+    
+}
